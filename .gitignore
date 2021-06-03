@@ -1,5 +1,8 @@
 /lection1_materials
 /lection1_materials.zip
+/less_02/articles.csv
+/less_02/users_churn.csv
+/less_02/users_articles.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
